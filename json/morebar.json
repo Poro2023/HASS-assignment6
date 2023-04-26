@@ -1,0 +1,23 @@
+[{
+		"name": "Environmental concern",
+		"values": [35, 57, 99, 144, 303]
+	},
+	{
+		"name": "Subject norm",
+		"values": [50, 62, 138, 191, 197]
+
+
+	},
+	{
+		"name": "Percetived behavior contornl",
+		"values": [49, 63, 165, 189, 172]
+	},
+	{
+		"name": "Attitude",
+		"values": [46, 60, 133, 182, 217]
+	},
+	{
+		"name": "Intention",
+		"values": [46, 57, 104, 210, 221]
+	}
+]
